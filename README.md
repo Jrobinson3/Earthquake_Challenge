@@ -7,7 +7,10 @@ Deliverable 1: Add Tectonic Plate Data:
 This assignment was completed with tectonic_plate_logic.js under static folder>js and Tectonic Plates_Map.PNG. 
 See below image for the completed map. 
 
-![image](https://user-images.githubusercontent.com/89823576/145730265-f805acab-5505-4fd7-a569-641c27c35c07.png)
+
+![this is image](https://user-images.githubusercontent.com/89823576/145730265-f805acab-5505-4fd7-a569-641c27c35c07.png)
+
+![this is image](https://user-images.githubusercontent.com/89823576/145730265-f805acab-5505-4fd7-a569-641c27c35c07.png)
 
 Deliverable 2: Add Major Earthquake Data:
 The second assignment was completed with major_eq_starter_logic.js and major_Earthquakes.png.
